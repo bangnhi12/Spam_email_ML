@@ -1,0 +1,22 @@
+label,message
+ham,Hello how are you
+ham,Please send me the report before the meeting
+ham,Can we have lunch tomorrow
+ham,Your assignment has been submitted successfully
+ham,Reminder our class starts at 8 AM
+ham,Please review the attached document
+ham,I will call you later
+ham,Thank you for your email
+ham,Your password was changed successfully
+ham,Meeting schedule has been updated
+spam,Congratulations you won free money click now
+spam,Win a free iPhone by clicking this link
+spam,You have been selected for a cash prize
+spam,Claim your reward now limited time offer
+spam,Cheap loans available apply immediately
+spam,Click here to get free gift
+spam,Your account is suspended verify now
+spam,Urgent you won lottery money
+spam,Get rich fast with this simple trick
+spam,Exclusive deal buy now and save money
+spam,<script>alert(1)</script>
