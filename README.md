@@ -1,4 +1,4 @@
-# Công cụ lọc Email Spam sử dụng Machine Learning
+# Lọc Email Spam sử dụng Machine Learning
 
 ## 1. Chức năng
 
@@ -55,6 +55,3 @@ spam_filter_ml_project/
 └── README.md
 ```
 
-## 7. Lưu ý
-
-Dataset mẫu trong project rất nhỏ, chỉ dùng để demo. Muốn mô hình chính xác hơn, cần thay bằng dataset lớn hơn.
