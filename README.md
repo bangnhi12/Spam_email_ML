@@ -46,7 +46,7 @@ streamlit run app.py
 ## 6. Cấu trúc file
 
 ```text
-spam_filter_ml_project/
+
 ├── spam.csv
 ├── train_model.py
 ├── predict_cli.py
